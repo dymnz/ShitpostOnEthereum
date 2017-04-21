@@ -1,6 +1,6 @@
 ### Shitpost on Ethereum
 
-##### **Make sure you have Metamask and a few ETH in the account**
+##### **Make sure you have Metamask and a few ETH in the account** (0.01ETH is enough)
 
 
 #### 1. Paste the following solidity code on Solidity online compiler: [Remix](https://ethereum.github.io/browser-solidity/)
