@@ -25,12 +25,14 @@ In `Contract` tab:
 * Make sure `Select execution environment` is `Injected Web3`, which is Metamask
 
 #### 4. Deploy the contract
-Press 'Create' in the `Contract` tab, and Metamask should pop up.
+In `Contract` tab, press the pink 'Create' button, and Metamask should pop up.
+
+Send the transaction.
 
 *Metamask sets a high gas limit, you won't be spending that much, the example above cost ~200000gas*
 
 #### 5. Find the contract
-After the transaction is mined, go to etherscan.io and find your contract
+After the transaction is mined, go to etherscan.io and find your contract.
 
 tx example: https://etherscan.io/tx/0xc7f0b67cdded4e5767b626ac49a3b4ea4598ee20d2d01b25daf51a18fb6e2a56
 
@@ -43,7 +45,7 @@ At your contract page on etherscan.io, go to `Contract Code` tab. Click `Verify 
 * Optimization: `Enable`
 * Copy your Solidity code into the big text box
 
-Then click `Verify And Publish` on the bottom
+Then click `Verify And Publish` on the bottom.
 
 #### 7. Done
 Now, at your contract page there will be a `Read Contract` tab. You should see your name and message on there.
