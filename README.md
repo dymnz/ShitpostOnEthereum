@@ -1,4 +1,4 @@
-### Shitpost
+### Shitpost on Ethereum
 
 ##### **Make sure you have Metamask and a few ETH in the account**
 
